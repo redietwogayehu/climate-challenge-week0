@@ -20,3 +20,19 @@ pip install -r requirements.txt
 ## Continuous Integration
 
 GitHub Actions runs automatically on pushes to the main branch.
+
+
+
+## Project Overview
+
+This project analyzes climate trends across five African countries using NASA climate data. The goal is to support evidence-based insights for COP32 climate discussions.
+
+## Completed Work
+
+### Task 1: Setup
+- Repository initialization
+- Environment setup using Python venv
+- CI pipeline with GitHub Actions
+
+### Task 2: EDA
+- Country-level cli
