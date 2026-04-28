@@ -40,3 +40,10 @@ This project analyzes climate trends across five African countries using NASA cl
 - Feature engineering (DATE, Month)
 - Visual analysis of temperature and rainfall
 - Correlation and distribution analysis
+
+
+## Dashboard
+
+Run locally:
+
+streamlit run app/main.py
