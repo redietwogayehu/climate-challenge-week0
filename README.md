@@ -35,4 +35,8 @@ This project analyzes climate trends across five African countries using NASA cl
 - CI pipeline with GitHub Actions
 
 ### Task 2: EDA
-- Country-level cli
+- Country-level climate profiling
+- Data cleaning (-999 handling, duplicates removal)
+- Feature engineering (DATE, Month)
+- Visual analysis of temperature and rainfall
+- Correlation and distribution analysis
